@@ -1,2 +1,2 @@
-# IOt-using-python-andESP8266
-am creating an IOT project using esp8266 and my sql database from scratch using php
+# Creating your own IoT cloud from scratch using php, Mysql, ESP12E
+ Creating your own IoT cloud from scratch using php, Mysql, ESP12E
